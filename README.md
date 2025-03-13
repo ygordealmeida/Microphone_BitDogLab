@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/337c76d6-a1cc-414f-bd90-866fe408b844" alt="V-CC_Color_Basica_TextoAzul" style="width:50%;"/>
+</div>
+
+
 # Biblioteca para Aquisição de Áudio com Microfone
 
 Esta biblioteca (`microphone.c`) foi desenvolvida para facilitar a leitura de dados de um microfone utilizando o ADC de um microcontrolador, Raspberry Pi Pico W (RP2040). O foco principal é oferecer um método eficiente para captura de dados, utilizando DMA (Direct Memory Access) para reduzir o uso da CPU e permitir amostragens de alta taxa sem comprometer o desempenho do sistema.
